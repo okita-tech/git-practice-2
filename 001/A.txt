@@ -1,3 +1,5 @@
 apple
 ant
+amazon
 asics
+alt

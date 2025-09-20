@@ -2,3 +2,6 @@
 - Great (素晴らしい)
 - Galaxy (銀河)
 
+graph
+google
+gravity
